@@ -1,4 +1,5 @@
 // lock screen for gokrazy
+// inspired by: https://github.com/gen2brain/goiv/blob/master/goiv_drm.go
 package main
 
 import (
